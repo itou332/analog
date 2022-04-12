@@ -51,8 +51,7 @@ lang: ja_JP
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
 <body>
-
-<h3>2022.4/11<h/3>
+<h3>2022.4/11</h3>
 
 <svg
    width="99.439445mm"
