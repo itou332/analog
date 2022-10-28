@@ -56,31 +56,31 @@ lang: ja_JP
 </head>
 <body>
 <h3>2022.4/11</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_11.svg"/>
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_11.svg">
 
 
 <h3>2022.4/12</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_12.svg"/>
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_12.svg">
 
 
 <h3>2022.4/14</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_14.svg"/>
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_14.svg">
 
 
 <h3>2022.4/15</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_15.svg"/>
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_15.svg">
 
 
 <h3>2022.4/16</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_16.svg"/>
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_16.svg">
 
 
 <h3>2022.4/17</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_17.svg"/>
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_4_17.svg">
 
 
 <h3>2022.4/21</h3>
-<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_5_21.svg"/>
+<img src="http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_5_21.svg">
 
 
 
