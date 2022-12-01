@@ -31,5 +31,6 @@ The picture will also change depending on the specs of your PC or android. The p
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
+    
 -----
 お疲れ様です。
