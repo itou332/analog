@@ -3773,7 +3773,24 @@ GIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGMZtpWn+
        style="filter:url(#filter465)" />
   </g>
 </svg>
-
+<!--薄くて白い円形がいくつも重ね合わさっている。同じ軸を中心に円形は回転している。軌道が同じため球体のようにみえる。-->
+ <details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_11_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_11_en.wav">
+    </audio>
+</figure>
+</details>
 <h3>2022.4/12</h3>
 
 <svg
@@ -8428,7 +8445,24 @@ D3CX90FrLTsAAAAAAElFTkSuQmCC
        style="filter:url(#filter25)" />
   </g>
 </svg>
-
+<!--ペンキを垂らして書いたような線。線は太くなったり細くなったりしている。赤、青、オレンジ、白色で書かれている。-->
+ <details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_12_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_12_en.wav">
+    </audio>
+</figure>
+</details>
 <h3>2022.4/14</h3>
 
 <svg
@@ -15445,7 +15479,24 @@ PTJWhWk3AAAAAElFTkSuQmCC
        style="filter:url(#filter151)" />
   </g>
 </svg>
-
+<!--淡いピンク色の靄。その中に水色とオレンジが混ざっている。-->
+ <details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_14_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_14_en.wav">
+    </audio>
+</figure>
+</details>
 <h3>2022.4/15</h3>
 
 <svg
@@ -25576,7 +25627,24 @@ wPOPKPr/AWwJJswkApFQAAAAAElFTkSuQmCC
        style="filter:url(#filter189)" />
   </g>
 </svg>
-
+<!--薄いテクスチャーをいくつも重ねて回転させている。色は水色と薄いピンク色をしている。-->
+ <details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_15_Jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_15_en.wav">
+    </audio>
+</figure>
+</details>
 <h3>2022.4/16</h3>
 
 <svg
@@ -34031,7 +34099,24 @@ C5dcuHDhwoUL3zz+1//6/wFmIFy1zN0iggAAAABJRU5ErkJggg==
        style="filter:url(#filter23)" />
   </g>
 </svg>
-
+<!--長方形の黒い背景に、白色で渦が書かれている。-->
+ <details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_16_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_16_en.wav">
+    </audio>
+</figure>
+</details>
 <h3>2022.4/17</h3>
 
 <svg
@@ -39116,7 +39201,24 @@ AABJRU5ErkJggg==
        style="filter:url(#filter2666)" />
   </g>
 </svg>
-
+<!--水色と白と黒が、水に滲んで水彩絵の具のような風合いを醸し出している。-->
+ <details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_17_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_17_en.wav">
+    </audio>
+</figure>
+</details>
 <h3>2022.4/21</h3>
 
 <svg
@@ -41500,7 +41602,24 @@ QfD/A4fNFvLhglJ3AAAAAElFTkSuQmCC
        transform="matrix(0.20379851,0,0,0.21155456,93.926822,114.51073)" />
   </g>
 </svg>
-
+<!--球体がある。球体は一部ぐちゃぐちゃになっている。色は主に淡い紫色をしている。-->
+ <details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_21_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/02/4_21_en.wav">
+    </audio>
+</figure>
+</details>
 
 </body>
 <footer>
@@ -41528,7 +41647,7 @@ QfD/A4fNFvLhglJ3AAAAAElFTkSuQmCC
        </nav>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
-                © 2022 itou Inc.
+                © 2023 itou Inc.
                 </text>
               </svg>
             
