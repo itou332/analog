@@ -35,5 +35,3 @@ The picture is written almost in SVG format.
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
        </nav>
------
-お疲れ様です。
